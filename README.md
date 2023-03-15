@@ -1,4 +1,5 @@
 # 백준 풀이
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leteu)](https://solved.ac/leteu/)
 
 ## 규칙
 1. 문제 번호로 폴더 만들기
