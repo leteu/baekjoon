@@ -8,6 +8,15 @@
 ## default
 > 아래 코드 넣고 시작
 ```js
+/**
+ * No: <문제 번호>
+ * Title: <문제 제목>
+ * Memory: <채점 결과 메모리>
+ * Time: <채점 결과 시간>
+ */
+```
+
+```js
 /* 입력이 한줄일때 */
 const fs = require('fs')
 // const stdin = fs.readFileSync('/dev/stdin').toString().split(' ')
@@ -25,4 +34,9 @@ const stdin = fs.readFileSync('case').toString().split('\n')
 ```bash
 $ cd <문제 번호>
 $ node --stack-size=65536 .
+```
+
+## 커밋
+```
+#<문제 번호>: <문제 제목>
 ```
